@@ -1,0 +1,6 @@
+{
+  "name": "CRM حرفه‌ای",
+  "description": "سیستم مدیریت ارتباط با مشتری (CRM) پیشرفته با قابلیت ثبت تماس، پیگیری و داشبورد تحلیلی.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
